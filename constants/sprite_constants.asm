@@ -116,6 +116,8 @@
 	const SPRITE_BIG_MUSHROOM           ; 72
 	const SPRITE_UNOWN_DOLL             ; 73
 	const SPRITE_PACKAGE                ; 74
+	const SPRITE_CHRIS_RUN                ; 75
+	const SPRITE_KRIS_RUN                ; 76
 DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)
