@@ -121,4 +121,6 @@ OverworldSprites:
 	overworld_sprite BigMushroomSpriteGFX, 4, STILL_SPRITE, PAL_OW_PINK
 	overworld_sprite UnownDollSpriteGFX, 4, STILL_SPRITE, PAL_OW_RED
 	overworld_sprite PackageSpriteGFX, 4, STILL_SPRITE, PAL_OW_BROWN
+	overworld_sprite ChrisRunSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
+ 	overworld_sprite KrisRunSpriteGFX, 12, WALKING_SPRITE, PAL_OW_BLUE
 	assert_table_length NUM_OVERWORLD_SPRITES
