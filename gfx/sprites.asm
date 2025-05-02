@@ -121,3 +121,8 @@ TinyMushroomSpriteGFX::        INCBIN "gfx/sprites/tiny_mushroom.2bpp"
 BigMushroomSpriteGFX::         INCBIN "gfx/sprites/big_mushroom.2bpp"
 UnownDollSpriteGFX::           INCBIN "gfx/sprites/unown_doll.2bpp"
 PackageSpriteGFX::             INCBIN "gfx/sprites/package.2bpp"
+
+SECTION "Sprites 4", ROMX
+
+ChrisRunSpriteGFX::             INCBIN "gfx/sprites/chris_run.2bpp"
+KrisRunSpriteGFX::             INCBIN "gfx/sprites/kris_run.2bpp"
